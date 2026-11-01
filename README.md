@@ -1,5 +1,5 @@
 
-### TP XML — Gestion d'une bibliothèque.
+### Partie 1 : TP XML — Gestion d'une bibliothèque.
 
 ## Fichiers
 
