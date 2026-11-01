@@ -1,6 +1,5 @@
-# biblio-elyazami
 
-TP XML — Gestion d'une bibliothèque (Formation ING HTECH, 01-11-2026).
+### TP XML — Gestion d'une bibliothèque.
 
 ## Fichiers
 
